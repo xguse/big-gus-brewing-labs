@@ -1,7 +1,29 @@
 big-gus-brewing-labs
 ==============================
 
-A re-awakening of the Big Gus Brewing Company habit of my mid 20s mixed with my aquired reproducible science and data-science affinities.
+A re-awakening of the Big Gus Brewing Company habit of my mid 20s mixed with my acquired reproducible science and data-science affinities.
+
+
+
+
+# Things I need to do:
+
+## Brew Session Class
+
+- [ ] Start Writing it!
+
+## Calculations
+
+- [ ] evaluate [acan](https://github.com/bierminen/acan) for the math base
+
+## Databases
+
+- [ ] evaluate [pybeerxml](https://github.com/hotzenklotz/pybeerxml) for recipe and session serialization
+
+## Reports / Worksheets
+
+- [ ] all
+
 
 Project Organization
 ------------
